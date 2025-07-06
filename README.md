@@ -1,0 +1,1 @@
+Test amaçlı oluşturulan repo
